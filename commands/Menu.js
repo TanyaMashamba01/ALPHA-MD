@@ -118,7 +118,7 @@ keith({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie
         categorizedCommands[category].push(command.nomCom);
     });
 
-    moment.tz.setDefault("Africa/Nairobi");
+    moment.tz.setDefault("Africa/Gweru");
     const currentTime = moment();
     const formattedTime = currentTime.format("HH:mm:ss");
     const formattedDate = currentTime.format("DD/MM/YYYY");
