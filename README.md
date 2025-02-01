@@ -7,7 +7,7 @@
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://b.top4top.io/p_3291qwfqu0.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
@@ -39,7 +39,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD&template=https://github.com/keithkeizzah/ALPHA-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/tanyaMashamba01/ALPHA-MD&template=https://github.com/keithkeizzah/ALPHA-MD.git)***
 
 <br>
 
